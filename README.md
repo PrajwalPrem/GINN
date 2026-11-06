@@ -12,7 +12,7 @@ The project models the motion of a star (e.g. S2) using:
 - relativistic orbital dynamics,
 - and a neural network correction to model deviations from the Keplerian approximation.
 
-The code supports multiple spacetime metrics, including:
+The code includes tests of multiple spacetime metrics, including:
 - Schwarzschild
 - Hairy Horndeski
 - Yukawa
